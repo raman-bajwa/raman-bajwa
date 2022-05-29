@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raman-bajwa, having 1+ year of experience in MERN development.
+- 👋 Hi, I’m ramanpreet, having 1+ year of experience in MERN-Stack development.
 - i'm passionate about React, V8 and Cloud.
 - loves to contribute to open-source projects.
 
