@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramanpreet, having 1+ year of experience in MERN-Stack Development.
 - I'm passionate about React, V8 and Cloud.
-- Loves to contribute to open-source projects.
+- Love contributing to open-source projects.
 
 <!---
 raman-bajwa/raman-bajwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
