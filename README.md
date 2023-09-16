@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramanpreet, having 1+ year of experience in MERN-Stack Development.
+- 👋 Hi, I’m Ramanpreet, having 2 year of experience in MERN-Stack Development.
 - I'm passionate about React, V8 and Cloud.
 - Love contributing to open-source projects.
 
